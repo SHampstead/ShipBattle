@@ -1,7 +1,7 @@
 from Classes_SB import *
 from sys import exit
 
-print("hello and welcome to Ship Battle.")
+print("Hello and welcome to Ship Battle.")
 players = input("Are there two palyers? ")
 if "y" in players.lower():
     print("Great! lets begin!")
